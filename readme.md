@@ -2,7 +2,7 @@
 
 **KeenKeeper** is a purposeful relationship management tool designed to help users track and nurture meaningful connections. This application ensures you never lose touch with those who matter most by monitoring contact frequency and providing visual status indicators.
 
-### 🌐 [Live Site]() | 
+### 🌐 [Live Site](https://keen-keeper-aj.vercel.app/) | 
 
 ---
 
@@ -35,7 +35,7 @@
 Run locally:
 
 ```bash
-git clone 
+git clone https://github.com/AbdulJulilShahria/Keen-Keeper.git
 cd friends-keeper
 npm install
 npm run dev

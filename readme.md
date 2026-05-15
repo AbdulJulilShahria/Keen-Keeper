@@ -8,10 +8,14 @@
 <!-- BANNER -->
 <img src="/public/Banner.png" alt="KeenKeeper Banner" width="100%"/>
 
+</div>
+
 <br/>
 
 
-### 🌐 [Live Site]( https://keen-keeper-aj.vercel.app/ ) | 
+### 🌐 [Live Site](https://keen-keeper-aj.vercel.app/) | 
+```https://keen-keeper-aj.vercel.app/ 
+```
 
 ---
 
@@ -45,7 +49,7 @@ Run locally:
 
 ```bash
 git clone https://github.com/AbdulJulilShahria/Keen-Keeper.git
-cd friends-keeper
+cd 
 npm install
 npm run dev
 ```

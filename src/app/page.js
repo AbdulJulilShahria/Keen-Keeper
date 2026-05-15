@@ -1,5 +1,4 @@
 import FriendsCardRender from "@/components/FriendsCardRender";
-import Image from "next/image";
 import { Suspense } from "react";
 import { TiPlus } from "react-icons/ti";
 

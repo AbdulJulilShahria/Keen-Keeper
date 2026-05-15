@@ -1,9 +1,8 @@
 "use client";
-import Link from "next/link";
 import { use, useContext } from "react";
 import useHooks from "@/hooks/useHooks";
 import { InterectionsContext } from "@/context/installcontext";
-import { ToastContainer, toast } from 'react-toastify';
+import {  toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';
 import { Zoom } from 'react-toastify';
 import { addToLocalDB } from "@/utils/localDB";

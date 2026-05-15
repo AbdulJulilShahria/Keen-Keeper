@@ -27,7 +27,7 @@ const StatsManager = () => {
                         PieChart View
                     </h1>
 
-                    {/* ✅ ResponsiveContainer fixes the Vercel SSR + sizing issue */}
+                   
                     <ResponsiveContainer width="100%" height={300}>
                         <PieChart>
                             <Tooltip

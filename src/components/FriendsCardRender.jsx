@@ -19,7 +19,7 @@ const data = friends;
             {data.map((user) => (
                 <Link href={`/friends/${user.id}`} key={user.id}>
                 <div key={user.id} className="bg-white rounded-xl shadow-md hover:shadow-lg hover:-translate-y-1 transition-all duration-300 overflow-hidden">
-                    <div className="h-16 bg-gradient-to-r from-green-900 to-emerald-500"></div>
+                    <div className="h-16 bg-linear-to-r from-green-900 to-emerald-500"></div>
                     <div className="px-4 -mt-10 flex items-center justify-center">
                         <img className='rounded-full w-20 h-20 border-4 border-white object-cover' src={user.picture} alt={user.name} />
                     </div>

@@ -13,7 +13,7 @@ const NavBar = () => {
             <div className="navbar bg-base-100 shadow-sm flex justify-between px-10">
                 <div className="navbar-start">
                     <div className="dropdown">
-                        <div tabIndex={0} role="button" className="btn btn-active  lg:hidden">
+                        <div tabIndex={0} role="button" className="btn btn-active mr-3 lg:hidden">
                             <FaBars />
                         </div>
                         <ul

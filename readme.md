@@ -2,7 +2,16 @@
 
 **KeenKeeper** is a purposeful relationship management tool designed to help users track and nurture meaningful connections. This application ensures you never lose touch with those who matter most by monitoring contact frequency and providing visual status indicators.
 
-### 🌐 [Live Site](https://keen-keeper-aj.vercel.app/) | 
+
+<div align="center">
+
+<!-- BANNER -->
+<img src="/public/Banner.png" alt="KeenKeeper Banner" width="100%"/>
+
+<br/>
+
+
+### 🌐 [Live Site]( https://keen-keeper-aj.vercel.app/ ) | 
 
 ---
 
